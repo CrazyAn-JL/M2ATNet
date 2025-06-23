@@ -1,6 +1,6 @@
 # M2ATNet
 The official implementation of M2ATNet: Multi-Scale Multi-Attention Denoising and Feature Fusion Transformer for Low-Light Image Enhancement.
-## Data Preparation
+## pre-trained model
 
 You can refer to the following link to download the pre-trained model.
 
