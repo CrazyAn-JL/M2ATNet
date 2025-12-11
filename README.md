@@ -2,6 +2,8 @@
 
 The official implementation of M2ATNet: Multi-Scale Multi-Attention Denoising and Feature Fusion Transformer for Low-Light Image Enhancement, accepted by Computers, Materials & Continua 2025.
 
+Paper link: [https://link.springer.com/article/10.1007/s00371-024-03414-2](https://www.techscience.com/cmc/v86n1/64460)
+
 ![Fig 1](https://github.com/CrazyAn-JL/M2ATNet/blob/main/MATNet.png)
 
 ## pre-trained model
