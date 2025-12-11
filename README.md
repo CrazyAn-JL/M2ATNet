@@ -37,3 +37,24 @@ You can select the dataset you want to test and simply enter the corresponding c
 ```bash
 python eval.py --lol
 ```
+
+## Citation
+~~~
+@Article{wei2025M2atnet,
+AUTHOR = {Zhongliang Wei, Jianlong An, Chang Su},
+TITLE = {M2ATNet: Multi-Scale Multi-Attention Denoising and Feature Fusion Transformer for Low-Light Image Enhancement},
+JOURNAL = {Computers, Materials \& Continua},
+VOLUME = {86},
+YEAR = {2026},
+NUMBER = {1},
+PAGES = {1--20},
+ISSN = {1546-2226},
+DOI = {10.32604/cmc.2025.069335}
+}
+~~~
+
+## Acknowledgements
+
+<!--ts-->
+* [CIDNet](https://github.com/Fediory/HVI-CIDNet)
+<!--te-->
