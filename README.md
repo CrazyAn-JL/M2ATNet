@@ -1,4 +1,4 @@
-# M2ATNet: Multi-Scale Multi-Attention Denoising and Feature Fusion Transformer for Low-Light Image Enhancement(CMC 2025)
+# M2ATNet: Multi-Scale Multi-Attention Denoising and Feature Fusion Transformer for Low-Light Image Enhancement (CMC 2025)
 
 The official implementation of M2ATNet: Multi-Scale Multi-Attention Denoising and Feature Fusion Transformer for Low-Light Image Enhancement, accepted by Computers, Materials & Continua 2025.
 
